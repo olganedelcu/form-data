@@ -20,7 +20,7 @@ The form is composed of reusable `TextInput` components, which dynamically displ
 Upcoming improvements will include:
 
 - **Backend Integration:** The form will connect to a backend server to store and process the submitted data.
-- **Unit Testing:** Comprehensive unit tests will be added to validate the behavior of components, enhancing reliability and maintainability.
+- **Unit Testing:** Unit tests will be added to validate the behavior of components, enhancing reliability and maintainability.
 
 Stay tuned for these updates!
 
